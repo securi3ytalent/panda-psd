@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif; 
+}
+.w-50 {
+    width: 48%!important;
+}
+.search{
+    position: relative;
+}
+form i {
+    position: absolute;
+    top: 35px;
+    right: 377px;
+}
+
+/* header area end form heare */
+
+.color{
+    background-color: #FEEAE9;
+}
+
+/* footer */
+.box{
+    background-color: antiquewhite;
+}
+.box2{
+    width: 40%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* responsive area */
+
+@media (max-width: 990px) {
+    .search{
+        position: relative
+    }
+    form i {
+        position: absolute;
+        top: 35px;
+        right: 42px;
+    }
+    
+}
+@media (max-width: 1200px) {
+    .search{
+        position: relative
+    }
+    form i {
+        position: absolute;
+        top: 44px;
+        right: 336px;
+    }
+    
+}
+@media (max-width: 991px) {
+    .search{
+        position: relative
+    }
+    form i {
+        position: absolute;
+        top: 38px;
+        right: 53px;
+    }
+    
+}
+@media (max-width: 767px) {
+    .search{
+        position: relative
+    }
+    form i {
+        position: absolute;
+        top: 80px;
+        right: 282px;
+    }
+    
+}
+@media (max-width: 450px) {
+    .search{
+        position: relative
+    }
+    form i {
+        position: absolute;
+        top: 80px;
+        right: 226px;
+    }
+    
+}
+@media (max-width: 352px) {
+    .search{
+        position: relative
+    }
+    form i {
+        position: absolute;
+        top: 80px;
+        right: 195px;
+    }
+    
+}
+@media (max-width: 326px) {
+    .search{
+        position: relative
+    }
+    form i {
+        position: absolute;
+        top: 81px;
+        right: 43px;
+    }
+    
+}
